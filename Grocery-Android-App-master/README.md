@@ -1,13 +1,10 @@
 # About Me
-## My name is Sagar Bangade
+## My name is Geetha Kamuju
 
-Smartinternz Dashboard Link- https://smartinternz.com/student-profile/feed/U0IyMDIyMDIyMTkzNg==
+Smartinternz Dashboard Link- https://smartinternz.com/Student/guided_project_workspace/54612
 
-Google Developer Profile Link- https://g.dev/sagarbangade
+Google Developer Profile Link- https://developers.google.com/profile/u/geetha_303
 
 Project - Grocery Android App
 This Project is a part of Google Supported Virtual Internship - Android App Development Using Kotlin.
 
-As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.
-
-Demonstration video of App- https://youtu.be/DFju7XqNHxw
